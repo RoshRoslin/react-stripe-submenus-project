@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-stripe-submenus-project/static/css/main.e53160bc.chunk.css",
+    "main.js": "/react-stripe-submenus-project/static/js/main.9bfe9e20.chunk.js",
+    "main.js.map": "/react-stripe-submenus-project/static/js/main.9bfe9e20.chunk.js.map",
+    "runtime-main.js": "/react-stripe-submenus-project/static/js/runtime-main.11b6db23.js",
+    "runtime-main.js.map": "/react-stripe-submenus-project/static/js/runtime-main.11b6db23.js.map",
+    "static/js/2.e1e77988.chunk.js": "/react-stripe-submenus-project/static/js/2.e1e77988.chunk.js",
+    "static/js/2.e1e77988.chunk.js.map": "/react-stripe-submenus-project/static/js/2.e1e77988.chunk.js.map",
+    "index.html": "/react-stripe-submenus-project/index.html",
+    "precache-manifest.90368a591b604b65034503acc54dab42.js": "/react-stripe-submenus-project/precache-manifest.90368a591b604b65034503acc54dab42.js",
+    "service-worker.js": "/react-stripe-submenus-project/service-worker.js",
+    "static/css/main.e53160bc.chunk.css.map": "/react-stripe-submenus-project/static/css/main.e53160bc.chunk.css.map",
+    "static/js/2.e1e77988.chunk.js.LICENSE.txt": "/react-stripe-submenus-project/static/js/2.e1e77988.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/react-stripe-submenus-project/static/media/hero.8596ab4a.svg",
+    "static/media/logo.svg": "/react-stripe-submenus-project/static/media/logo.1090473d.svg",
+    "static/media/phone.svg": "/react-stripe-submenus-project/static/media/phone.58d7e3d6.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.11b6db23.js",
+    "static/js/2.e1e77988.chunk.js",
+    "static/css/main.e53160bc.chunk.css",
+    "static/js/main.9bfe9e20.chunk.js"
+  ]
+}
